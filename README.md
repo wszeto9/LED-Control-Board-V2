@@ -1,8 +1,10 @@
 # LED-Control-Board-V2
 Version 2 of a easy-to-deploy, low-cost PCBA to control LED lights over Wi-Fi. Designed for use at MIT's East Campus REX event to light up large forts and structures at distances of over 30 ft.
 
+[Interactive BOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/wszeto9/LED-Control-Board-V2/main/breakout_boards/ibom.html)
 <h2> Features:</h2>
 <ul>
+
 <li>Costs under $10 per Control board </li>
 <li>USB-C PD/QC input (12V) for analog RGB strips</li>
 <li>USB-C input (5V) for addressible RGB strips</li>
