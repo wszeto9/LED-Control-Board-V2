@@ -15,11 +15,11 @@ Version 2 of a easy-to-deploy, low-cost PCBA to control LED lights over Wi-Fi. D
 <li>Programming side (Right) can be cut off and seperated from controller side (Left) to reduce the chips needed to program boards to further reduce cost</li>
 </ul>
 
-![Pinout](breakout_boards/documentation/pinout_config-01.jpg)
+![Pinout](breakout_boards/Documentation/pinout_config-01.jpg)
 Pinout
 
-![LED Inducators](breakout_boards/documentation/pinout_config-02.jpg)
+![LED Inducators](breakout_boards/Documentation/pinout_config-02.jpg)
 LED Indicators
 
-![Top_unpopulated](breakout_boards/documentation/ISO_board.png)
+![Top_unpopulated](breakout_boards/Documentation/ISO_board.png)
 Populated Board
